@@ -1,0 +1,202 @@
+ .fa-th {
+        font-size: 25px;
+        float: right;
+        padding: 10px;
+        color: gray;
+        margin-right: 35px;
+    }
+    .fa-bell {
+        font-size: 25px;
+        float: right;
+        padding: 10px;
+        color: gray;
+        margin-right: 35px;
+        padding-left: -25px;
+    }
+     .fa-envelope {
+        font-size: 25px;
+        float: right;
+        padding: 10px;
+        color: gray;
+        margin-right: 145px;
+        padding-left: -55px !important;
+        padding-right: -55px;
+    }
+    .top-nav {
+        margin-top: 0px;
+        position: fixed;
+        width: 100%;
+        top: 0px;
+    }
+    .top-nav > li {
+        display: inline;
+        list-style-type: none;
+        margin-right: -25px;
+    }
+    .footer-nav {
+        bottom: 0px;
+        position: fixed;
+        background-color: whitesmoke;
+        width: 100%;
+        left: 0px;
+        height: 30px;
+        margin-bottom: 0px;
+    }
+    .footer-nav li {
+        padding: 20px;
+        font-weight: bold;
+        list-style-type: none;
+        display: inline;
+        margin-top: 15px !important;
+    }
+    .footer-nav a {
+        color: black;
+        text-decoration: none;
+    }
+    .footer-nav a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+    .left-footer li{
+        float: right;
+        margin-right: 55px;
+        padding: 5px;
+        margin-top: -19px !important;
+    }
+    .left-footer a {
+        color: black;
+        text-decoration: none;
+    }
+     .left-footer a:hover {
+        color: blue !important;
+        text-decoration: none;
+    }
+    .search-form {
+        margin-top: 10%;
+        margin-left: 35%;
+        height: auto;
+    }
+    .search-form img {
+        margin-left: 60px;
+    }
+    #search-input {
+        width: 450px;
+        height: 40px;
+        box-shadow: 1px;
+        margin-left: -35px;
+        margin-top: 15px !important;
+    }
+    .fa-microphone {
+        font-size: 20px;
+        color: blue;
+        padding-left: 5px;
+        margin-left: 802px;
+        width: 5px;
+    }
+    .fa-random {
+        font-size: 20px;
+        color: indianred;
+        margin-left: 835px;
+        padding-left: 15px;
+    }
+    .fa-search {
+        font-size: 20px;
+        color: gray;
+        margin-left: 745px;
+        padding-left: 15px;
+    }
+    .fa-microphone, .fa-random, .fa-search {
+        margin-top: -30px !important;
+    }
+    i {
+        background-color: 
+    }
+    .top-nav img {
+        width: 35px;
+        float: right;
+        display: inline;
+        padding: 10px;
+        border-radius: 26px;
+        margin-right: -295px;
+        margin-top: -5px;
+    }
+    .dropdown {
+        position: relative;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: ghostwhite;
+        width: 300px;
+        height: auto;
+        float: right;
+        margin-left: 990px;
+        margin-top: 45px !important;
+        box-shadow: 10px 10px 5px #888888;
+    }
+    .dropdown-content li {
+        display: inline;
+        padding: 15px;
+    }
+    .dropdown:hover .dropdown-content {
+        display: block;
+        margin-top: 10px;
+    }
+    .fa-address-card, .fa-google, .fa-globe, .fa-youtube-play, .fa-play-circle, .fa-newspaper-o, .fa-envelope-o, .fa-cloud, .fa-calendar, .fa-calendar, .fa-google-plus, .fa-language, .fa-picture-o {
+        font-size: 35px;
+        text-align: justify;
+        padding: 15px;
+    }
+    .more-option {
+        width: 100%;
+        margin-left: 0px !important;
+        height: 25px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .more-option li {
+        width: 100%;
+        text-align: center;
+    }
+    .more-option a {
+        color: black;
+        text-decoration: none;
+        text-align: center;
+    }
+    .more-option a:hover {
+        color: blue;
+        text-decoration: underline;
+    }
+    .fa-address-card {
+        color: deepskyblue
+    }
+    .fa-youtube {
+        color: red;
+    }
+    .fa-google-plus {
+        color: hotpink;
+    }
+    .fa-google {
+        color: blue;
+    }
+    .fa-google {
+        color: orangered;
+    }
+    .fa-envelope-o {
+        color: green;
+    }
+    .fa-globe {
+        color: greenyellow;
+    }
+    .fa-play-circle {
+        color: gold;
+    }
+    .fa-newspaper-o {
+        color: cadetblue;
+    }
+     .fa-cloud {
+        color: sandybrown;
+    }
+     .fa-language {
+        color: sienna;
+    }
